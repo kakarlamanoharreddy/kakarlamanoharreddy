@@ -1,8 +1,8 @@
 Hi I'm Manohar Kakarla
 
 - 👋 Hi, I’m @kakarlamanoharreddy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ...Cloud Technologies
+- 🌱 I’m good at technologies ... Snowflake , AWS, PowerBI, SQL, Linux, Control-M, Service Now, ETL Testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Manoharreddy.kakarla@yahoo.com 
 
